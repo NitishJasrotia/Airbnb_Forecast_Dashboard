@@ -94,7 +94,7 @@ Paris, NYC, and Sydney dominate the platform in both listings and reviews.
 Customer ratings highlight strengths in location and value, but variation exists across cities.
 
 📂 Project Structure
-Code
+
 airbnb-forecast-dashboard/
 │
 ├── data/
@@ -109,17 +109,8 @@ airbnb-forecast-dashboard/
 │   └── ratings_page.png
 │
 └── README.md
-▶️ How to Run
-Clone the repository:
 
-bash
-git clone https://github.com/yourusername/airbnb-forecast-dashboard.git
-cd airbnb-forecast-dashboard
-Open dashboard.pbix in Power BI Desktop.
 
-Update the data source paths if required.
-
-Explore the Overview and Ratings pages interactively.
 
 🎯 Skills Demonstrated
 Power BI dashboard design
