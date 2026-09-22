@@ -59,7 +59,10 @@ Extract Insights & Recommendations
 **Dashboard Pages
 **
 
-1. Overview Page
+1. ## Overview Page
+
+<img width="1221" height="892" alt="image" src="https://github.com/user-attachments/assets/86674b38-d8d1-409a-b9b4-7c3ca87d9c4e" />
+
 KPIs (Cards): Listings, Cities, Hosts, Property Types, Reviews.
 
 Line Chart: Count of listings by year.
