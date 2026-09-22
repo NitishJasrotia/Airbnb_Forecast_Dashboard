@@ -1,12 +1,12 @@
-🏠 Airbnb Forecast Dashboard
-Data Analytics Project (Power BI)
+**Airbnb Forecast Dashboard-Data Analytics Project (Power BI)
+**
 
-📌 Overview
+Overview
 This project demonstrates the use of Power BI to analyze Airbnb listings and customer reviews. The goal is to transform structured Airbnb data into interactive dashboards that highlight trends, KPIs, and insights about listings, hosts, property types, and customer ratings.
 
-Unlike a full ETL pipeline project, this work focuses on data visualization and storytelling — showcasing how Power BI can turn cleaned datasets into actionable business insights.
+**Key Objectives
+**
 
-🎯 Key Objectives
 Load and explore cleaned Airbnb datasets (Listings & Reviews).
 
 Build two interactive dashboard pages in Power BI:
@@ -21,7 +21,9 @@ Highlight Airbnb’s growth trajectory, regulatory impacts, and pandemic effects
 
 Present findings in a clear, professional format.
 
-📁 Dataset
+**Dataset
+**
+
 Two structured datasets were used:
 
 Listings dataset → Contains information about listings, hosts, property types, and cities.
@@ -31,14 +33,17 @@ Reviews dataset → Contains customer reviews, ratings, and feedback metrics.
 Format: CSV / Excel
 Data was cleaned and structured before importing into Power BI.
 
-🛠️ Tools & Technologies
-Tool	Purpose
+**Tools & Technologies
+**
+
 Power BI	Dashboard creation & visualization
 DAX	Measures & calculated insights
 Excel/CSV	Source data
 
 
-🔄 Project Workflow
+**Project Workflow
+**
+
 Cleaned Dataset
 ↓
 Import into Power BI
@@ -51,7 +56,9 @@ Build Ratings Dashboard
 ↓
 Extract Insights & Recommendations
 
-📈 Dashboard Pages
+**Dashboard Pages
+**
+
 1. Overview Page
 KPIs (Cards): Listings, Cities, Hosts, Property Types, Reviews.
 
@@ -80,39 +87,26 @@ Paris, NYC, and Sydney account for nearly 50% of listings and 48% of reviews.
 
 Paris leads both in listings and reviews, driven by hotel prices being nearly double Airbnb rates.
 
-Bookmarks:
+_Bookmarks:
+_
 
 Overview Ratings → Stacked column chart + average rating by city.
 
 Detailed Ratings → Matrix chart showing cleanliness, accuracy, communication, location, and value ratings by city.
 
-📊 Key Results & Insights
+**Key Results & Insights
+**
+
 Airbnb’s growth trajectory shows clear regulatory and pandemic impacts.
 
 Paris, NYC, and Sydney dominate the platform in both listings and reviews.
 
 Customer ratings highlight strengths in location and value, but variation exists across cities.
 
-📂 Project Structure
 
-airbnb-forecast-dashboard/
-│
-├── data/
-│   ├── listings.csv
-│   └── reviews.csv
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-├── images/
-│   └── overview_page.png
-│   └── ratings_page.png
-│
-└── README.md
+**Skills Demonstrated
+**
 
-
-
-🎯 Skills Demonstrated
 Power BI dashboard design
 
 DAX measures for KPIs and insights
@@ -121,5 +115,6 @@ Data storytelling with bookmarks and interactive visuals
 
 Business intelligence in the hospitality & travel domain
 
-⭐ Project Goal
-The goal of this project is to showcase Power BI skills by building a professional Airbnb dashboard that highlights growth trends, city-level performance, and customer ratings — turning raw data into actionable insights for business decision-making.
+**Project Goal
+**
+The goal of this project is to showcase Power BI skills by building a professional Airbnb dashboard that highlights growth trends, city-level performance, and customer ratings turning raw data into actionable insights for business decision-making.
